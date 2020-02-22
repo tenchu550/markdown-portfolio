@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Alex Ramirez*
+_Informatica_
+
+**Estudiante**
+__Esforzado__
+
+_Hola **espero** estes bien_
